@@ -1,11 +1,11 @@
 
-package com.journaldev.spring.jdbc.dao;
+package com.javeed.spring.jdbc.dao;
 
 import javax.sql.DataSource;
 
 import org.springframework.jdbc.core.JdbcTemplate;
 
-import com.journaldev.spring.jdbc.model.Customer;
+import com.javeed.spring.jdbc.model.Customer;
 
 public class CustomerDAOImpl implements CustomerDAO {
 
