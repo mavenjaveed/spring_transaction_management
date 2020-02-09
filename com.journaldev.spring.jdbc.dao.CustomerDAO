@@ -1,7 +1,7 @@
 
-package com.journaldev.spring.jdbc.dao;
+package com.javeed.spring.jdbc.dao;
 
-import com.journaldev.spring.jdbc.model.Customer;
+import com.javeed.spring.jdbc.model.Customer;
 
 public interface CustomerDAO {
 
