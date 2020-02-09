@@ -1,5 +1,5 @@
 
-package com.journaldev.spring.jdbc.model;
+package com.javeed.spring.jdbc.model;
 
 public class Customer {
 
